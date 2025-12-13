@@ -12,4 +12,5 @@ Miscellaneous scripts for working with kubernetes
 
 | Name                  | Description                                                  |
 | --------------------- | ------------------------------------------------------------ |
+| `k8s-check-cluster-ca-expiration` | Get the expiration date of a cluster's internal CA  |
 | `k8s-get-certificate` | Extract a cluster's internal CA that issues API certificates |
