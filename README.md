@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [kubernetes-tools](#kubernetes-tools)
+  - [Scripts](#scripts)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # kubernetes-tools
 
 [![License](https://img.shields.io/github/license/unixorn/kubernetes-tools.svg)](https://opensource.org/license/apache-2-0)

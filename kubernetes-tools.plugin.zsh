@@ -23,4 +23,3 @@ local k8s_tools_bin="${0:h}/bin"
 if [[ -z "${path[(r)${k8s_tools_bin}]}" ]]; then
     path+=( "${k8s_tools_bin}" )
 fi
-
